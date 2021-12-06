@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/gcarolinealves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcarolinealves&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcarolinealves&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
