@@ -1,4 +1,4 @@
-### Olá, me chamo Caroline. Sou especialista em testes de software e atuo principalmente com testes mobile. Aqui você vai encontrar alguns projetos bem legais. Quer dar uma olhadinha no meu porftólio?
+### Olá, me chamo Caroline. Sou especialista em testes e qualidade de software e atuo principalmente com testes mobile. Aqui você vai encontrar alguns projetos bem legais. Quer dar uma olhadinha no meu porftólio?
 ##
 <br>
 <div>
