@@ -1,4 +1,4 @@
-### Olá, me chamo Caroline. Sou especialista em testes e qualidade de software e atuo principalmente com testes mobile. Aqui você vai encontrar alguns projetos bem legais. Quer dar uma olhadinha no meu porftólio?
+### Hello, my name is Caroline. I am a specialist in software testing and quality, primarily working with mobile testing. Here you'll find some really cool projects. Would you like to take a look at my portfolio?
 ##
 <br>
 <div>
