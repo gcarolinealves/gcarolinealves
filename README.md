@@ -2,8 +2,8 @@
 ##
 <br>
 <div>
-  <a href="https://github.com/gcarolinealves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcarolinealves&layout=compact&langs_count=4&theme=buefy"/>
+  <a href="https://github.com/carolineaires">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineaires&layout=compact&langs_count=4&theme=buefy"/>
 </div>
 
 <div style="display: inline_block"><br>
